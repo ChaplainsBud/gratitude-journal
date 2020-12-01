@@ -1,0 +1,40 @@
+body {
+  background-color: aquamarine;
+}
+
+header {
+  height: 20vh;
+  width: 100vw;
+  background-color: blueviolet;
+}
+
+nav {
+  height: 10vh;
+  width: 100vw;
+  background-color: antiquewhite;
+}
+
+main {
+  height: 100vh;
+  width: 100vw;
+  background-color: burlywood;
+}
+
+footer {
+  height: 10vh;
+  width: 100vw;
+  background-color: cornflowerblue;
+}
+
+nav > ul {
+  display: flex;
+}
+
+li {
+  margin: 5px;
+  list-style: none;
+}
+
+nav > ul > li:first-child {
+  flex-grow: 1;
+}
