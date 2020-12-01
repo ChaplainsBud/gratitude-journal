@@ -7,6 +7,8 @@ Frontend:
 
 Store it on front end first, then migrate to backend with Node.js/Express
 
+https://codepen.io/RoutinePoutine/pen/QWKwqaR?editors=1011
+
 Backend:
 
 //Build a REST API with Nodejs and MongoDB:
